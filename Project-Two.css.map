@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAA,MAAM,CAAC;EACJ,KAAK,EAAE,OAAO;EACd,eAAe,EAAE,IAAI;CACxB;;AACD,AAAA,UAAU,CAAC,CAAC,CAAA;EACR,KAAK,EAAE,OAAO;CAEjB;;AACD,AAAA,UAAU,CAAC,GAAG,CAAC;EACX,SAAS,EAAE,KAAK;EAChB,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,UAAU,CAAC;EACP,UAAU,EAAC,OAAO;CACrB",
+    "sources": [
+        "Project-Two.scss"
+    ],
+    "names": [],
+    "file": "Project-Two.css"
+}

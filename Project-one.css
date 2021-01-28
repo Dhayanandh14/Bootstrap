@@ -1,0 +1,65 @@
+.head {
+  text-align: center;
+  max-width: 821px;
+}
+
+#bootstrap-logo {
+  width: 66px;
+  padding-bottom: 20px;
+}
+
+#checkhead {
+  font-size: 31px;
+}
+
+#head-para {
+  font-size: 18px;
+}
+
+#state {
+  padding-left: 20px;
+}
+
+#csz {
+  font-size: 14px;
+}
+
+#at {
+  padding: 0px 10px 0px 10px;
+}
+
+#next {
+  font-size: 14px;
+}
+
+#add {
+  font-size: 14px;
+}
+
+#payment {
+  font-size: 21px;
+}
+
+.gateway {
+  font-size: 14px;
+}
+
+.number {
+  font-size: 13px;
+}
+
+.common-li {
+  font-size: 13px;
+}
+
+.brief {
+  font-size: 11px;
+}
+
+#badge {
+  border-radius: 10px;
+  padding-left: 9px;
+  padding-right: 9px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=Project-one.css.map */
